@@ -1,11 +1,11 @@
 title: Rajesh A # your name (or website title) here
 logo: "/images/linkedin_logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Analytics specialist with 3 years experience in a variety of commercial, strategy and analytical roles. Skilled in Python, Machine Learning, Statistics, Data Visualisation, Business Analysis, Communication and Strategy. 
   <br><br>
-  Second description 
+  Data Science Gradute from Syracuse University 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/arajesh14/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
